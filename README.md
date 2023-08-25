@@ -1,4 +1,4 @@
-#Recipes Project
+# Recipes Project
 
 Display all of my favourite recipes
 
