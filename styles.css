@@ -13,11 +13,8 @@ a {
     text-decoration: underline;
 }
 
-.recipe-image {
-    height: auto;
-    width: 500px;
-    display: block;
-    margin: 20px auto;
+li {
+    margin-top: 1em;
 }
 
 .title {
@@ -37,4 +34,16 @@ a {
 .home-recipes {
     font-size: 22px;
     margin: 15px;
+}
+
+.recipe-image {
+    height: auto;
+    width: 500px;
+    display: block;
+    margin: 20px auto;
+}
+
+.recipe-content {
+    margin: 0 2em 50px;
+    border-top: 2px solid #FEFEFE;
 }
