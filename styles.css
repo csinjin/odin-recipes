@@ -1,23 +1,40 @@
 * {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    color: white;
-    background-color: #264653;
 }
 
-h1 {
-    text-align: left;
-    color: white;
+body {
+    margin: 0;
+    background-color: #2a9d8f;
+    color: #FFFACD
 }
 
 a {
+    color: inherit;
     text-decoration: underline;
 }
 
-img {
+.recipe-image {
     height: auto;
-    width: 600px;
+    width: 500px;
+    display: block;
+    margin: 20px auto;
 }
 
-.home-ul {
-    font-size: 18px;
+.title {
+    text-align: center;
+    background-color: #264653;
+    padding: 15px 10px 10px 10px;
+    border-bottom: 2px solid #FEFEFE;
+}
+
+.home-content {
+    text-align: center;
+    background-color: #2a9d8f;
+    margin: 15px;
+    padding: 5px;
+}
+
+.home-recipes {
+    font-size: 22px;
+    margin: 15px;
 }
